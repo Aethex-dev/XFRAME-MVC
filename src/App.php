@@ -5,7 +5,7 @@ class App {
 
     function __construct() {
 
-        echo "hello world";
+        echo "hello world, MVC was loaded!";
         
     }
 
